@@ -2,4 +2,5 @@
 Machine Learning Recommendation System
 
 Instructions: 
-Just extract the folder to Desktop terminal part type in: streamlit run app.py
+1. Click on app.py
+2. Just extract the folder to Desktop terminal part type in: streamlit run app.py
